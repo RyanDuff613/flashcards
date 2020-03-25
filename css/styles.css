@@ -1,16 +1,8 @@
-.definition-showing {
-  font-style: italic;
-  display: inline;
-  color: red;
-}
-.definition-hidden {
+
+#definition {
   display: none;  
 }
 
-#javascript-showing {
+#javascript {
   font-weight: bold;
-}
-
-.term-hidden {
-  display: none;
 }

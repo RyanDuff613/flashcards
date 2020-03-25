@@ -1,12 +1,13 @@
 $(document).ready(function() {
   
-  $('#javascript-showing').click(function(){
-    $('.definition-hidden').show();
-    $('#javascript-showing').hide();
+  $('#javascript').click(function(){
+    $('#definition').show();
+    $('#javascript').hide();
   });
 
-  $('.definition-showing').click(function(){
-    
+  $('#definition').click(function(){
+    $('#javascript').show();
+    $('#definition').hide();
   });
 
 
