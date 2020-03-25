@@ -1,9 +1,18 @@
 .definition-showing {
   font-style: italic;
-  display: inherit;
+  display: inline;
+  color: red;
 }
 .definition-hidden {
   display: none;
   font-weight: bold;
+  font-color: black;
 }
 
+.term-showing {
+  font-weight: bold;
+}
+
+.term-hidden {
+  display: none;
+}
