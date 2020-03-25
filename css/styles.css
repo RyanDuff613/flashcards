@@ -1,0 +1,9 @@
+.definition-showing {
+  font-style: italic;
+  display: inherit;
+}
+.definition-hidden {
+  display: none;
+  font-weight: bold;
+}
+
